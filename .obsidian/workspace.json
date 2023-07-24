@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8de209fd22e32674",
+        "id": "f84f3a65269c5a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bef9dc2c833f54",
+            "id": "ea3fb1eb30686915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anonymity/13 - 百年未有之变局/反炮兵雷达.md",
+                "file": "【本周更新】/无效安慰.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,37 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
+        "dimension": 44.22857142857143,
+        "children": [
+          {
+            "id": "7569597966c86526",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1-家族/1D-心理/2-抑郁",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "366372991e7a9040",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cddf796add1364e",
+        "type": "tabs",
+        "dimension": 55.77142857142857,
         "children": [
           {
             "id": "4879eced09a10136",
@@ -41,36 +72,12 @@
                 "sortOrder": "byModifiedTime"
               }
             }
-          },
-          {
-            "id": "7569597966c86526",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#4-世界史/4C-军事/1-军工与技术",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
-              }
-            }
-          },
-          {
-            "id": "be93b815a191d52f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 375.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymity/13 - 百年未有之变局/反炮兵雷达.md",
+                "file": "【本周更新】/无效安慰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,51 +131,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "727ef7e1831ef234",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
-    "Anonymity/13 - 百年未有之变局/超高音速武器.md",
-    "Anonymity/13 - 百年未有之变局/修船.md",
-    "Anonymity/10 - “就你机灵”系列/提高命中.md",
-    "Anonymity/07 - 军事技术与艺术/韩国军工.md",
-    "Anonymity/07 - 军事技术与艺术/橙剂.md",
-    "Anonymity/07 - 军事技术与艺术/打怪兽.md",
-    "Anonymity/07 - 军事技术与艺术/弓箭的杀伤力.md",
-    "Anonymity/07 - 军事技术与艺术/后坐力.md",
-    "Anonymity/07 - 军事技术与艺术/军舰降噪.md",
-    "Anonymity/05 - 科学答集/螺母.md",
-    "Anonymity/05 - 科学答集/螺栓松了.md",
-    "Anonymity/05 - 科学答集/弯道超车.md",
-    "Anonymity/05 - 科学答集/两指宽.md",
-    "Anonymity/04 - 社科答集/核电站的风险.md",
-    "Anonymity/07 - 军事技术与艺术/日本弯刀.md",
-    "Anonymity/07 - 军事技术与艺术/浮桥.md",
-    "Anonymity/07 - 军事技术与艺术/我们如何战胜认知战.md",
-    "Anonymity/07 - 军事技术与艺术/打掉飞箭.md",
-    "Anonymity/05 - 科学答集/运动最强.md",
-    "Anonymity/05 - 科学答集/驾与驶.md",
-    "Anonymity/05 - 科学答集/烤不化的冰糕.md",
-    "Anonymity/05 - 科学答集/抢快还是拳快.md",
-    "Anonymity/01 - 家族答集/不卑不亢 2.md",
-    "Anonymity/00 - 致读者/留言.md",
-    "Anonymity/00 - 致读者/卖瓜 3.md",
-    "Anonymity/01 - 家族答集/理性的代价.md",
+    "【本周更新】/反驳人.md",
+    "【本周更新】/指定幻觉.md",
+    "【本周更新】/作为主人的价值.md",
+    "【本周更新】/三赢童话.md",
+    "【本周更新】/祭祀.md",
+    "【本周更新】/长安三万里.md",
+    "【本周更新】/无效安慰.md",
+    "【本周更新】/不赏饭.md",
+    "【本周更新】/演技单薄.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/文责意识/讨厌的梗.md",
+    "README.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/立志/理想.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/198-1. 态度与伦理/马鹿头.md",
+    "7.10/修订/2023-07-11你有哪些话想对知乎上关注你的人说？.md",
+    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致读者.md",
+    "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致你们.md",
+    "7.10/修订/2023-07-15我是班长，舍友没做核酸，并且想让我帮忙隐瞒，但是我还是上报了，现在关系很僵怎么办？.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/励志.md",
+    "7.10/修订/2023-07-16年轻人怎么在这个喧嚣的社会中不迷失自我和坚守理想？.md",
+    "7.10/修订/2023-07-11如何看待中国大学的宿舍制度?.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/表达意愿/合理.md",
+    "7.10/修订/2023-07-10女孩子真的要嫁给有钱人吗？.md",
+    "7.10/修订/2023-07-10为什么我吃不惯苏州面？.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/490 - 商学总论/苏州面.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/财富/有钱人 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/家里不富裕.md",
+    "7.3/新增",
+    "7.3/修订",
+    "7.3",
+    "财富观",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论健康",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/笑果",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/197 - 生命伦理学/关于自由",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/华为",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/睡前消息",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/潜艇",
+    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
+    "Untitled.canvas",
     "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
     "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "Untitled",
-    "新增文件/Untitled",
-    "Anonymity/14 - 素问SOOON.AI",
-    "待移除",
-    "_附件",
-    "待移除",
     "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
     "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
     "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
     "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
     "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png",
     "待移除/_附件/Screenshot 2022-12-31 at 07.25.34.png",
-    "【本周修订】",
-    "转载授权/2-授权条款更新.png",
-    "Anonymity/14 - 人与智能"
+    "转载授权/2-授权条款更新.png"
   ]
 }
