@@ -4,7 +4,8 @@
 > Author: #0-Anonymity
 > Last update: [编辑于 2023-03-10]
 > Link:
-> Tag: #4-世界史/4E-科学技术/2-科技/AI 
+> Category: #【答集】/06-未来科技
+> Tag: #4-世界史/4E-科学技术/2-科技/AI
 > 评论区:
 > 泛讨论:
 

@@ -439,6 +439,7 @@ https://zhuanlan.zhihu.com/p/380200295
 > Author: #0-Anonymity
 > Last update:
 > Link:
+> Category: 
 > Tag:
 > 评论区:
 > 泛讨论:
@@ -462,7 +463,7 @@ https://zhuanlan.zhihu.com/p/380200295
 - [x] 逐步添加新版本tag
 - [x] 持续优化tag栏
 - [ ] 【进行中】建立tag之间的层级关系
-- [ ] 英文翻译
+- [ ] 英文翻译？
 
 ---
 ---
